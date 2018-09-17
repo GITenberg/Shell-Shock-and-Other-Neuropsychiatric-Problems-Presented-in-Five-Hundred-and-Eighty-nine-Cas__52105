@@ -1,7 +1,10 @@
 _repo: Shell-Shock-and-Other-Neuropsychiatric-Problems-Presented-in-Five-Hundred-and-Eighty-nine-Cas__52105
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: "Shell-Shock and Other Neuropsychiatric Problems\r\nPresented in\
   \ 589 Case Histories from the War Literature, 1914-1918"
+covers:
+- cover_type: archival
+  image_path: 52105-h/images/cover.jpg
 creator:
   author:
     agent_name: Southard, Elmer Ernest
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/46678
     wikipedia: https://en.wikipedia.org/wiki/Elmer_Ernest_Southard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52105#Shell-Shock-and-Other-Neuropsychiatric-Problems-Presented-in-Five-Hundred-and-Eighty-nine-Cas_
 gutenberg_issued: '2016-05-19'
 gutenberg_type: Text
 identifiers:
