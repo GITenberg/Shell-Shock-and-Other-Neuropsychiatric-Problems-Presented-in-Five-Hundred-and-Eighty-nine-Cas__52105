@@ -1,0 +1,35 @@
+_repo: Shell-Shock-and-Other-Neuropsychiatric-Problems-Presented-in-Five-Hundred-and-Eighty-nine-Cas__52105
+_version: 0.0.1
+alternative_title: "Shell-Shock and Other Neuropsychiatric Problems\r\nPresented in\
+  \ 589 Case Histories from the War Literature, 1914-1918"
+creator:
+  author:
+    agent_name: Southard, Elmer Ernest
+    aliases:
+    - Southard, Elmer E. (Elmer Ernest)
+    - Southard, E. E. (Elmer Ernest)
+    birthdate: 1876
+    deathdate: 1920
+    gutenberg_agent_id: '46678'
+    url: http://www.gutenberg.org/2009/agents/46678
+    wikipedia: https://en.wikipedia.org/wiki/Elmer_Ernest_Southard
+description: ''
+gutenberg_issued: '2016-05-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52105'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'War neuroses'
+- !lcsh 'World War, 1914-1918 -- Psychological aspects'
+- !lcc 'RC'
+- !lcsh 'World War, 1914-1918 -- Medical care'
+- GITenberg
+title: 'Shell-Shock and Other Neuropsychiatric Problems
+
+  Presented in Five Hundred and Eighty-nine Case Histories from the War Literature,
+  1914-1918'
+url: http://www.gutenberg.org/ebooks/52105
